@@ -1,0 +1,2 @@
+Variable = "Nate"
+print(Variable)
