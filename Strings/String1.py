@@ -1,2 +1,2 @@
-Variable = "Nate"
-print(Variable)
+Person = "Nate"
+print(Person)
