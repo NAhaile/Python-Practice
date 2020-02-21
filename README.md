@@ -1,3 +1,3 @@
 # Python-Practice
 
-This is where I will pratice my Python coding.
+This is where I will pratice my Python coding abilities.
