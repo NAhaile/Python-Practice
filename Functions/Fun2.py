@@ -13,5 +13,9 @@ def Rev2(x):
 
 lst = [1,2,3,4]
 print(Rev(lst))
+#Output: [4,3,2,1]
 lst2 = [1,2,3,4]
 print(Rev2(lst2))
+#Output: [4,3,2,1]
+
+
