@@ -1,7 +1,7 @@
 #Reversing using the reverse() mathod in python
 
 def Rev(x):
-    x.reverse()
+    x.reverse() #<--- function for reversing 
     return x
 
 #Reversing using the slicing technique
