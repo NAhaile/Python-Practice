@@ -8,4 +8,3 @@ def recursive_add(n):
         
         
 print(recursive_add(5)) #<----- Similarly to addition we can do multiplication this will print out 120 ie; 5*4*3*2*1 = 120
-
