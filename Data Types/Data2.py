@@ -6,3 +6,4 @@ for i in numbers:
 
 print("The product is: ", product) #<----- Should give us 24
 
+
